@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/aula-actions/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/aula-actions/static/js/main.96f63843.chunk.js",
-    "main.js.map": "/aula-actions/static/js/main.96f63843.chunk.js.map",
+    "main.js": "/aula-actions/static/js/main.7bbe37cc.chunk.js",
+    "main.js.map": "/aula-actions/static/js/main.7bbe37cc.chunk.js.map",
     "runtime-main.js": "/aula-actions/static/js/runtime-main.66abf4d8.js",
     "runtime-main.js.map": "/aula-actions/static/js/runtime-main.66abf4d8.js.map",
     "static/js/2.c327a5f8.chunk.js": "/aula-actions/static/js/2.c327a5f8.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.66abf4d8.js",
     "static/js/2.c327a5f8.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.96f63843.chunk.js"
+    "static/js/main.7bbe37cc.chunk.js"
   ]
 }
